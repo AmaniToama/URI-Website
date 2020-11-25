@@ -1,4 +1,4 @@
-#URI{
+.URI{
 				background-color:#797979;
 				padding :40px;
 				margin-top:-10px;
@@ -6,7 +6,7 @@
 				margin-right:-9px;
 				
 }
-#logo{
+.logo{
 				font-size:3px;
 				font-color:#5aadd9;
 				font-family:font-family: 'Nerko One', cursive;
